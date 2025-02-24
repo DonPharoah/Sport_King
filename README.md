@@ -59,7 +59,7 @@ Feel Free to contribute, PR are the most welcome :)
 
 MIT License
 
-Copyright (c) 2022 Thal Marcelin
+Copyright (c) 2023 Thal Marcelin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
