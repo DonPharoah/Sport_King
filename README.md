@@ -1,4 +1,4 @@
-# SportsKing
+# Sports King ( Betting)
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/ThalKod/Sport_King/assets/32584079/109800ad-91db-4c9f-bb0c-15bf1aa0be15"> </br>
@@ -58,6 +58,7 @@ Feel Free to contribute, PR are the most welcome :)
 ## License
 
 MIT License
+
 
 Copyright (c) 2021 Thal Marcelin
 
