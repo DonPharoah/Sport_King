@@ -1,6 +1,8 @@
 /* import { Platform } from 'react-native';
 import Config from 'react-native-config';
 
+const HOST = process.env.HOST;
+
 export default {
   API_HOST: Platform.select({
     ios: Config.IOS_API_HOST,

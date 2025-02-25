@@ -20,7 +20,7 @@ import analytics from '@react-native-firebase/analytics';
 import mobileAds from 'react-native-google-mobile-ads';
 import SplashScreen from "react-native-splash-screen";
 
-console.log("==================", IOS_API_HOST, ANDROID_API_HOST)
+console.log("---------------", IOS_API_HOST, ANDROID_API_HOST)
 
 const client = new ApolloClient({
   uri: Platform.OS === "ios" ? IOS_API_HOST : ANDROID_API_HOST,
